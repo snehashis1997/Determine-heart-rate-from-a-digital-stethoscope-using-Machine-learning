@@ -10,3 +10,5 @@ I worked Sensordrop Networks (http://www.sensordropsnetworks.com/) from 20th Jul
 
 ![image](https://user-images.githubusercontent.com/33135767/92559175-b0dff800-f28d-11ea-936c-f6eeb0d0133e.png) ![image](https://user-images.githubusercontent.com/33135767/92559252-d53bd480-f28d-11ea-99be-0ff728953151.png)
 
+![image](https://user-images.githubusercontent.com/33135767/92559609-8d697d00-f28e-11ea-8cf0-0884caaf44a5.png)
+![image](https://user-images.githubusercontent.com/33135767/92559650-9fe3b680-f28e-11ea-95ac-489af75adfc3.png)
