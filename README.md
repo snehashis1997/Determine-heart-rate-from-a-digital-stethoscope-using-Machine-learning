@@ -9,6 +9,9 @@ I worked Sensordrop Networks (http://www.sensordropsnetworks.com/) from 20th Jul
 
 ![image](https://user-images.githubusercontent.com/33135767/92559252-d53bd480-f28d-11ea-99be-0ff728953151.png) ![image](https://user-images.githubusercontent.com/33135767/92559175-b0dff800-f28d-11ea-936c-f6eeb0d0133e.png)
 
+<img src="https://user-images.githubusercontent.com/33135767/92330440-73f8e300-f08c-11ea-9347-f831828e0f3c.png" width="600" height="400"/> ![image](https://user-images.githubusercontent.com/33135767/92560103-724b3d00-f28f-11ea-96eb-0172c1f30e22.png)
+
+
 ![image](https://user-images.githubusercontent.com/33135767/92330440-73f8e300-f08c-11ea-9347-f831828e0f3c.png) 
 ![image](https://user-images.githubusercontent.com/33135767/92330455-88d57680-f08c-11ea-83cb-a9e0758f4b7a.png)
 
@@ -21,5 +24,4 @@ I worked Sensordrop Networks (http://www.sensordropsnetworks.com/) from 20th Jul
 
 
 
-![image](https://user-images.githubusercontent.com/33135767/92560103-724b3d00-f28f-11ea-96eb-0172c1f30e22.png)
 
