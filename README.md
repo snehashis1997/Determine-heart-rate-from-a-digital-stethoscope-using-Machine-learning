@@ -15,11 +15,14 @@ I worked Sensordrop Networks (http://www.sensordropsnetworks.com/) from 20th Jul
 ![image](https://user-images.githubusercontent.com/33135767/92330440-73f8e300-f08c-11ea-9347-f831828e0f3c.png) 
 ![image](https://user-images.githubusercontent.com/33135767/92330455-88d57680-f08c-11ea-83cb-a9e0758f4b7a.png)
 
-![image](https://user-images.githubusercontent.com/33135767/92330465-9ee33700-f08c-11ea-8adb-87ad0f8d710a.png)
+## Peak detection part
+### Actual signal after Band pass filtering and avereging
+![image](https://user-images.githubusercontent.com/33135767/92330465-9ee33700-f08c-11ea-8adb-87ad0f8d710a.png) ![image](https://user-images.githubusercontent.com/33135767/92561194-5e083f80-f291-11ea-824f-6d6722b6b2fc.png)
+
 ![image](https://user-images.githubusercontent.com/33135767/92330469-a4d91800-f08c-11ea-9ef9-56db4ddc0681.png)
 ![image](https://user-images.githubusercontent.com/33135767/92330471-a99dcc00-f08c-11ea-921d-31b32e6b00c7.png)
 ![image](https://user-images.githubusercontent.com/33135767/92330472-ac98bc80-f08c-11ea-9d8f-77ef5baba5d0.png)
-![image](https://user-images.githubusercontent.com/33135767/92561194-5e083f80-f291-11ea-824f-6d6722b6b2fc.png)
+
 
 
 
