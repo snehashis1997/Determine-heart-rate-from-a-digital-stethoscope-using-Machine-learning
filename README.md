@@ -13,6 +13,7 @@ I worked Sensordrop Networks (http://www.sensordropsnetworks.com/) from 20th Jul
 
 ## Peak detection part
 ### Actual signal before and after Band pass filtering and avereging
+![image](https://user-images.githubusercontent.com/33135767/96450438-d7516580-1233-11eb-80cb-6b3aa631c88f.png) ![image](https://user-images.githubusercontent.com/33135767/96450364-bab52d80-1233-11eb-810a-ba4697e78b4b.png)
 
 ### Detected peaks but here we can see some unwanted peaks
 
